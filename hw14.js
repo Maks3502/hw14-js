@@ -1,44 +1,44 @@
 // завдання1
 
-const myArray = {
+// const myArray = {
 
-}
+// }
 
-myArray.name = "Max";
-myArray.age = 14;
-myArray.city = "Nikopol";
-myArray.ocupation = "Football"
+// myArray.name = "Max";
+// myArray.age = 14;
+// myArray.city = "Nikopol";
+// myArray.ocupation = "Football"
 
-console.log(myArray.countre);
+// console.log(myArray.countre);
 
 
-console.log(myArray.name)
+// console.log(myArray.name)
 
 
 // завдання2
 
-const purchase = {
+// const purchase = {
     
-sugar:{
-    price: 40,
-    crowbar: "1кг",
-    package: "white",
-    meda: "Poland"
-},
+// sugar:{
+//     price: 40,
+//     crowbar: "1кг",
+//     package: "white",
+//     meda: "Poland"
+// },
 
-wine:{
-    price:120,
-    made: "Italy",
-    package: "red"
-},
-bread:{
-price: 22,
-made: "Ukrain"
-}
-}
+// wine:{
+//     price:120,
+//     made: "Italy",
+//     package: "red"
+// },
+// bread:{
+// price: 22,
+// made: "Ukrain"
+// }
+// }
 
 
-console.log(purchase);
+// console.log(purchase);
 
 // завдання3
 
@@ -125,6 +125,47 @@ console.log(purchase);
 // 7
 
 
+// apartment.area = 60;
+// apartment.rooms = 3;
+// apartment.location = {
+//     city: "Kingston",
+//     country: "Jamaica"
+// }
+
+
+// завдання4
+
+// const name = "Repair Droid";
+
+// const price = 2500;
+
+// const image = "https://via.placeholder.com/640x480";
+
+// const tags = ["on sale", "trending", "best buy"];
+
+ 
+
+// const product = {
+
+// name,
+// price,
+// image,
+// tags,
+
+// };
+
+
+// const emailInputName = "email";
+
+// const passwordInputName = "password";
+
+// const credentials = {
+
+// [emailInputName]: "henry.carter@aptmail.com",
+
+//  [passwordInputName]: "jqueryismyjam",
+
+// };
 
 
 
